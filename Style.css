@@ -6,7 +6,11 @@ tr{
     word-spacing: 30px;
   } 
 
+
 .mypic {
-  width: 25%;
-  height: auto;
+width: 15%;
+height: auto;
+float: left;
+margin-left: 0px 0px 0px 30px;
+
 }
