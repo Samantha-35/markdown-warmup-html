@@ -6,11 +6,13 @@ tr{
     word-spacing: 30px;
   } 
 
-
+  em{
+      margin-top: 50px;
+      margin-left: 50px;     
+}
 .mypic {
 width: 15%;
 height: auto;
 float: left;
 margin-left: 0px 0px 0px 30px;
-
 }
